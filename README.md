@@ -45,6 +45,8 @@ http://www.codewars.com/
 
 [GITHUB REPO](https://ccadolby2016.slack.com/x-91722995378-91840009443/admin/invites)
 
+[WORKSHOP TUMBLR](http://ccadolby.tumblr.com/)
+
 [GITHUB DESKTOP DOWNLOAD](https://desktop.github.com/)
 
 [PROCESSING DOWNLOAD](https://processing.org/download/)
