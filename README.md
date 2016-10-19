@@ -30,6 +30,7 @@ http://www.codewars.com/
 
 
 [Kadenze](https://www.kadenze.com/courses/the-nature-of-code/info)
+
 [Dan Shiffman](https://www.youtube.com/playlist?list=PLRqwX-V7Uu6Zy51Q-x9tMWIv9cueOFTFA)
 
 
@@ -41,16 +42,23 @@ http://www.codewars.com/
 
 
 [SLACK CCA_2016](https://ccadolby2016.slack.com/x-91722995378-91840009443/admin/invites)
+
 [GITHUB REPO](https://ccadolby2016.slack.com/x-91722995378-91840009443/admin/invites)
+
 [GITHUB DESKTOP DOWNLOAD](https://desktop.github.com/)
+
 [PROCESSING DOWNLOAD](https://processing.org/download/)
+
 
 
 
 ##GITHUB Tutorials
 [Github Workflow Guide](https://guides.github.com/introduction/flow/)
+
 [Github Guide](https://guides.github.com/activities/hello-world/)
+
 [Dan Shiffman Videos](https://www.youtube.com/watch?v=BCQHnlnPusY)
+
 [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 
 
@@ -58,14 +66,19 @@ http://www.codewars.com/
 
 ##Artist Examples
 * [Aaron Koblin's - The Sheep Market](http://www.aaronkoblin.com/work/thesheepmarket/index.html)
+
 * [Chris O'Shea](http://www.chrisoshea.org/)
+
 * [The Fun Theory](http://www.thefuntheory.com/)
+
 * [CCA 2015](https://www.youtube.com/watch?v=STS5OSYHW_8)
 
 ##Processing Code Examples
 
 * [OpenProcessing](https://www.openprocessing.org/)
+
 * [Ryoji Ikeda data.path installation ](https://www.youtube.com/watch?v=jPGkJabeib0)
+
 * [Big Screens Exhibit](http://gizmodo.com/5110633/120-feet-of-video-art-final-exams-at-nyus-big-screens-class)
 
 
